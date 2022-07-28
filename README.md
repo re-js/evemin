@@ -1,0 +1,2 @@
+# revent
+Modern event emitter
