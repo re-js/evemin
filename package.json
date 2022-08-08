@@ -1,0 +1,23 @@
+{
+  "name": "re-event",
+  "version": "0.0.0",
+  "description": "Modern event emitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/re-js/re-event.git"
+  },
+  "keywords": [
+    "event",
+    "event emitter"
+  ],
+  "author": "Slava Bereza <mail@betula.co> (http://betula.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/re-js/re-event/issues"
+  },
+  "homepage": "https://github.com/re-js/re-event#readme"
+}
