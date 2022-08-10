@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/re-js/re-event.git"
+    "url": "git+https://github.com/re-js/evemin.git"
   },
   "keywords": [
     "event",
@@ -17,9 +17,9 @@
   "author": "Slava Bereza <mail@betula.co> (http://betula.co)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/re-js/re-event/issues"
+    "url": "https://github.com/re-js/evemin/issues"
   },
-  "homepage": "https://github.com/re-js/re-event#readme",
+  "homepage": "https://github.com/re-js/evemin#readme",
   "devDependencies": {
     "tap": "16.3.0"
   }
