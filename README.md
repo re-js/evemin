@@ -1,5 +1,7 @@
 # evemin
 
+[![npm version](https://img.shields.io/npm/v/evemin?style=flat-square)](https://www.npmjs.com/package/evemin) [![npm bundle size](https://img.shields.io/bundlephobia/minzip/evemin?style=flat-square)](https://bundlephobia.com/result?p=evemin)
+
 Modern and flazing fast event emitter
 
 - Zero-cost abstraction
