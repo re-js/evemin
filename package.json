@@ -1,10 +1,10 @@
 {
-  "name": "re-event",
+  "name": "evemin",
   "version": "0.0.0",
-  "description": "Modern event emitter",
+  "description": "Modern and flazing fast event emitter",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tap test.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/re-js/re-event/issues"
   },
-  "homepage": "https://github.com/re-js/re-event#readme"
+  "homepage": "https://github.com/re-js/re-event#readme",
+  "devDependencies": {
+    "tap": "16.3.0"
+  }
 }
