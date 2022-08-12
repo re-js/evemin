@@ -9,7 +9,7 @@ module.exports = {
     return ev
   },
   listen: (ev, fn) => (
-    ev[0].indexOf(fn) === -1 && (ev[0] = ev[0].concat(fn)),
+    ev[0].indexOf(fn) < 0 && (ev[0] = ev[0].concat(fn)),
     () => {
       ev[0] = ev[0].filter(f => f !== fn)
     }
