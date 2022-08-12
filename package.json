@@ -5,7 +5,7 @@
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
-    "test": "jest index.test.ts",
+    "test": "jest",
     "perf": "ts-node perf.ts"
   },
   "repository": {
