@@ -1,4 +1,3 @@
-
 type Event<P> = ((data: P) => void) & [((data: P) => void)[]];
 
 export declare const event: <P = void>() => Event<P>;

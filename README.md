@@ -5,8 +5,13 @@
 Modern and blazing fast event emitter
 
 - Zero-cost abstraction
-- High performant
+- High performance
 - Lightweight
+
+🌈 2x times faster standard node.js event emitter
+<br>
+🌈 Only 244 bytes min+gzip
+
 
 ```javascript
 import { event, listen } from 'evemin';

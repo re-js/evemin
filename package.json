@@ -5,7 +5,8 @@
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
-    "test": "jest index.test.ts"
+    "test": "jest index.test.ts",
+    "perf": "ts-node perf.ts"
   },
   "repository": {
     "type": "git",
@@ -16,7 +17,10 @@
     "event emitter",
     "fast",
     "blazing fast",
-    "typescript"
+    "typescript",
+    "zero-cost abstraction",
+    "high performance",
+    "lightweight"
   ],
   "author": "Slava Bereza <mail@betula.co> (http://betula.co)",
   "license": "MIT",
