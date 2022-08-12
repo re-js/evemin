@@ -20,7 +20,8 @@
     "typescript",
     "zero-cost abstraction",
     "high performance",
-    "lightweight"
+    "lightweight",
+    "super small"
   ],
   "author": "Slava Bereza <mail@betula.co> (http://betula.co)",
   "license": "MIT",

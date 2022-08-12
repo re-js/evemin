@@ -6,7 +6,7 @@ Modern and blazing fast event emitter
 
 - Zero-cost abstraction
 - High performance
-- Lightweight
+- Super small
 
 🌈 2x times faster standard node.js event emitter
 <br>
@@ -23,7 +23,7 @@ listen(onStart, (v) => console.log('start', v))
 onStart(1) // developer console output: start 1
 ```
 
-➪ [https://runkit.com/betula/62f6253e0533460009786124](https://runkit.com/betula/62f6253e0533460009786124)
+[![Try it on RunKit](https://badge.runkitcdn.com/>.svg)](https://runkit.com/betula/62f6253e0533460009786124)
 
 Installation
 
