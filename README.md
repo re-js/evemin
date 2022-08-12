@@ -1,6 +1,6 @@
 # evemin
 
-[![npm version](https://img.shields.io/npm/v/evemin?style=flat-square)](https://www.npmjs.com/package/evemin) [![npm bundle size](https://img.shields.io/bundlephobia/minzip/evemin?style=flat-square)](https://bundlephobia.com/result?p=evemin) [![typescript supported](https://img.shields.io/npm/types/typescript?style=flat-square)](index.d.ts)
+[![npm version](https://img.shields.io/npm/v/evemin?style=flat-square)](https://www.npmjs.com/package/evemin) [![npm bundle size](https://img.shields.io/bundlephobia/minzip/evemin?style=flat-square)](https://bundlephobia.com/result?p=evemin) [![code coverage](https://img.shields.io/coveralls/github/re-js/evemin?style=flat-square)](https://coveralls.io/github/re-js/evemin) [![typescript supported](https://img.shields.io/npm/types/typescript?style=flat-square)](index.d.ts)
 
 Modern and blazing fast event emitter
 
@@ -9,9 +9,6 @@ Modern and blazing fast event emitter
 - Super small
 
 🌈 2x times faster standard node.js event emitter
-<br>
-🌈 Only 244 bytes min+gzip
-
 
 ```javascript
 import { event, listen } from 'evemin'
