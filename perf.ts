@@ -108,16 +108,16 @@ for (let i = 0; i < 10; i++) {
 
 /*
 plain functions test
-js functions 	  20000 times per 0.7s
-js functions 	  20000 times per 0.23s
-js functions 	  20000 times per 0.17s
-js functions 	  20000 times per 0.17s
-js functions 	  20000 times per 0.18s
-js functions 	  20000 times per 0.18s
-js functions 	  20000 times per 0.17s
-js functions 	  20000 times per 0.18s
-js functions 	  20000 times per 0.17s
-js functions 	  20000 times per 0.18s
+js functions 	20000 times per 0.7s
+js functions 	20000 times per 0.23s
+js functions 	20000 times per 0.17s
+js functions 	20000 times per 0.17s
+js functions 	20000 times per 0.18s
+js functions 	20000 times per 0.18s
+js functions 	20000 times per 0.17s
+js functions 	20000 times per 0.18s
+js functions 	20000 times per 0.17s
+js functions 	20000 times per 0.18s
 
 evemin events test
 evemin events 	20000 times per 1.02s
