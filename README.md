@@ -14,14 +14,16 @@ Modern and blazing fast event emitter
 
 
 ```javascript
-import { event, listen } from 'evemin';
+import { event, listen } from 'evemin'
 
-const onStart = event();
+const onStart = event()
 
-listen(onStart, (v) => console.log('start', v));
+listen(onStart, (v) => console.log('start', v))
 
-onStart(1); // developer console output: start 1
+onStart(1) // developer console output: start 1
 ```
+
+➪ [https://runkit.com/betula/62f6253e0533460009786124](https://runkit.com/betula/62f6253e0533460009786124)
 
 Installation
 

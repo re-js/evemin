@@ -46,7 +46,7 @@ test('listen', () => {
 })
 
 test('unlisten', () => {
-  const ev = event<number>();
+  const ev = event<number>()
 
   const unlisten = listen(ev, push_stack)
 
