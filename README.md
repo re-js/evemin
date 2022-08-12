@@ -1,6 +1,6 @@
 # evemin
 
-[![npm version](https://img.shields.io/npm/v/evemin?style=flat-square)](https://www.npmjs.com/package/evemin) [![npm bundle size](https://img.shields.io/bundlephobia/minzip/evemin?style=flat-square)](https://bundlephobia.com/result?p=evemin)
+[![npm version](https://img.shields.io/npm/v/evemin?style=flat-square)](https://www.npmjs.com/package/evemin) [![npm bundle size](https://img.shields.io/bundlephobia/minzip/evemin?style=flat-square)](https://bundlephobia.com/result?p=evemin) [![typescript supported](https://img.shields.io/npm/types/typescript?style=flat-square)](index.d.ts)
 
 Modern and blazing fast event emitter
 
