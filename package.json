@@ -12,7 +12,9 @@
   },
   "keywords": [
     "event",
-    "event emitter"
+    "event emitter",
+    "fast",
+    "blazing fast"
   ],
   "author": "Slava Bereza <mail@betula.co> (http://betula.co)",
   "license": "MIT",
